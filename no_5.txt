@@ -1,0 +1,10 @@
+no. 5
+
+=> Perbedaan ArrayList dengan List :
+	ArrayList : merupakan implementasi dari List yang memungkinkan untuk menambah,
+			menghapus dan mencari elemen.
+	List : merupakan struktur data untuk mendefinisikan urutan elemen.
+
+=> Perbedaan ArrayList dengan Collection :
+	ArrayList : tidak bisa digunakan dalam API
+	Collection : bisa digunakan dalam API.
